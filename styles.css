@@ -1,0 +1,65 @@
+body {
+ text-align: center;
+}
+
+.header {
+    margin: 7%;
+    height: 1000px;
+}
+
+.header-title {
+    font-family: 'Zen Loop', cursive;
+    font-size: 6em;
+}
+
+.header-subtitle {
+    font-family: 'Zen Loop', cursive;
+    font-size: 4em;
+}
+
+.arrow-img {
+    margin: 7%;
+}
+
+.arrow-text {
+    margin: 3%;
+    font-family: 'Zen Loop', cursive;
+}
+
+.birb-img {
+    background-image: url("images/twobirbs.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 1000px;
+}
+
+.hello-text {
+    margin: 25%;
+    font-size: 5em;
+    font-family: 'Zen Loop', cursive;
+}
+
+.welcome {
+    margin: 25%;
+    font-size: 2em;
+    font-family: 'Zen Loop', cursive;
+}
+
+.welcome-subtitle {
+    font-size: 2em;
+    margin: 5%;
+}
+
+.welcome-text {
+    font-size: 3em;
+   
+}
+
+.birbhouse-img {
+    background-image: url("images/birbhouse.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 1000px;
+}
